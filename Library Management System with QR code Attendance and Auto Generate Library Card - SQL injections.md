@@ -42,9 +42,7 @@ id_no=' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(0x7
 
 **SQLMAP Test**
 
-![image-20220804234643404]([C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220804234643404.png](https://cdn.jsdelivr.net/gh/beytagh001/blog-img/image-20220804234643404.png))
-
-
+![image-20220804234643404](https://cdn.jsdelivr.net/gh/beytagh001/blog-img/image-20220804234643404.png)
 
 
 
