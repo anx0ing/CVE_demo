@@ -28,7 +28,7 @@ https://www.sourcecodester.com/php/11327/equipment-inventory.html
 
 > `Generic Name`、`Item Code:`、`Brand Name`Parameters have Cross Site Scripting(XSS)
 
-![image-20220807230905054](C:\Users\Administrator\Desktop\Images\Equipment Inventory System-XSS\image-20220807230905054.png)
+![image-20220807230905054](https://cdn.jsdelivr.net/gh/beytagh001/blog-img/image-20220807230905054.png)
 
 
 
@@ -38,6 +38,6 @@ https://www.sourcecodester.com/php/11327/equipment-inventory.html
 <script>alert(1)</script>
 ```
 
-![image-20220807225859771](C:\Users\Administrator\Desktop\Images\Equipment Inventory System-XSS\image-20220807225859771.png)
+![image-20220807225859771](https://cdn.jsdelivr.net/gh/beytagh001/blog-img/image-20220807225859771.png)
 
 > The save will trigger
